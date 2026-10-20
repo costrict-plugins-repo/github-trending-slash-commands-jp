@@ -1,0 +1,9 @@
+{
+  "name": "slash-commands-jp",
+  "description": "Claude Code の全スラッシュコマンドを公式ドキュメントから最新取得し、日本語＋実用例つきで表示するプラグイン。自動最新化対応。",
+  "version": "1.0.0",
+  "author": {
+    "name": "Keita Shimoda"
+  },
+  "license": "MIT"
+}
